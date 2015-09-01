@@ -9,9 +9,7 @@ number of times over the last few years. So here's the "canonical version".
 
 Usage
 =====
-Include the [JavaScript code](https://github.com/bluerail/picture_zoomer/tree/master/lib/assets/javascripts)
-and the [stylesheet](https://github.com/bluerail/picture_zoomer/tree/master/lib/assets/stylesheets).
-For Ruby on Rails, you can use the gem (see below).
+Include the [JavaScript code](https://github.com/bluerail/picture_zoomer/tree/master/lib/assets/javascripts). For Ruby on Rails, you can use the gem (see below).
 
 All you need to do after that is tell it which images to zoom:
 
