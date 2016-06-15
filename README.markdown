@@ -1,7 +1,5 @@
 [![Gem Version](https://badge.fury.io/rb/picture_zoomer.svg)](http://badge.fury.io/rb/picture_zoomer)
 
-[Here's a demo](https://cdn.rawgit.com/bluerail/picture_zoomer/master/demo.html)
-
 Simple "zooming lightbox" that doesn't suck.
 
 This is a fairly simple piece of JS code, but also something I've re-written a
